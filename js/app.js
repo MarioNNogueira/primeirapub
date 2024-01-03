@@ -27,8 +27,8 @@ function adicionar(){
 
 
 function sortear(){
-    if(nomes.length<4){
-        alert('Adicione no minimo 4 nomes.')
+    if(nomes.length<5){
+        alert('Adicione no minimo 5 nomes.')
         return;
     }
 
